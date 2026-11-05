@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its a simple number counter that counts up in binary from 0 - 9 and resets itself back to 0.
 
 ## How to test
 
-Explain how to use your project
+Flick DIP switch #1 as many times as you want, you will start to see the 8 segment display start to cycle.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
